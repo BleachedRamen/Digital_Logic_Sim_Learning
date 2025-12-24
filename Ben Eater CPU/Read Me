@@ -1,2 +1,2 @@
 A simple implimentation of the CPU presented by Ben Eater, Playlist here -> https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU
-The design will not use resistors, or any other element for voltage control(including Tri-state buffers and capacitors) and will use as many prebuilt IC's(Integrated Circuits) as possible such as the 74173 IC
+The design will use as many prebuilt IC's(Integrated Circuits) as possible such as the 74173 IC, trying to re-create the tutorial as faithfully as possible
